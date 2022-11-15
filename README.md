@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I'm a Computer's Engineer from Universidad de El Salvador.<br>👯 I'm currently work at Hospital de Diagnóstico as a Java Developer<br>🤝 Learning about Database Administration in Oracle, frontend, and improving my english <br>🌱 I like videogames, reading and singing (Im just a bathroom singer)<br>
+:wave: Hi! I'm a Computer's Engineer from :es: El Salvador.<br>:computer: I'm currently work at Hospital de Diagnóstico as a Java Developer<br>:nerd_face:Learning about Database Administration in Oracle, frontend, and improving my english <br>:video_game: I like videogames,:books: reading and singing :microphone:(Im just a bathroom singer)<br>
+🤝 Let's be friends!!
 
 
 ## 🌐 Socials:
