@@ -1,10 +1,51 @@
 <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/e0dd9cd9-a466-40dd-9e79-2112e702a550" />
 
+## 🏯 About Me
 
-# 💫 About Me:
-:wave: Hi! I'm a Computer's Engineer from :es: El Salvador.<br>:computer: I'm currently work at Hospital de Diagnóstico as a Java Developer<br>:nerd_face:Learning about Database Administration in Oracle, frontend, and improving my english <br>:video_game: I like videogames,:books: reading and singing :microphone:(Im just a bathroom singer)<br>
+:wave: こんにちは! Hi! I'm a Computer's Engineer from :es: El Salvador.<br>:computer: I'm currently work at Hospital de Diagnóstico as a Java Developer with over 10 years of experience in software development, currently expanding my expertise into database administration (DBA) in Oracle DB.".<br>:video_game: I like videogames,:books: reading and singing :microphone:(Im just a bathroom singer)<br>
 🤝 Let's be friends!!
 
+## 🌸 Mi filosofía
+
+改善 (Kaizen)
+"Every line of code is an opportunity for improvement"
+
+I believe in:
+* Continuous learning
+* Maintainable code
+* Automation
+* Solving real-world problems
+
+## ⚔️ My Tech Arsenal
+
+Backend
+- Java
+- Spring Boot
+- Laravel
+- Node.js
+
+Frontend
+- React
+- Next.js
+- Tailwind CSS
+
+Databases
+- Oracle
+- PostgreSQL
+- MySQL
+
+DevOps
+- Docker
+- GitHub Actions
+- Linux
+
+## 🎯 2026 Goals
+
+- [ ] Deepen my knowledge in Database Administration (DBA).
+- [ ] Learning About Python.
+- [ ] Complete the Tech AI Builder course and master AI agent development.
+- [ ] Improve my English level.
+- [ ] Picking up my Japanese studies again.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aryamn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayrazavalanajarro) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aryam1077) 
