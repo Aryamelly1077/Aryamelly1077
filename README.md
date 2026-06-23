@@ -1,3 +1,6 @@
+<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/e0dd9cd9-a466-40dd-9e79-2112e702a550" />
+
+
 # 💫 About Me:
 :wave: Hi! I'm a Computer's Engineer from :es: El Salvador.<br>:computer: I'm currently work at Hospital de Diagnóstico as a Java Developer<br>:nerd_face:Learning about Database Administration in Oracle, frontend, and improving my english <br>:video_game: I like videogames,:books: reading and singing :microphone:(Im just a bathroom singer)<br>
 🤝 Let's be friends!!
